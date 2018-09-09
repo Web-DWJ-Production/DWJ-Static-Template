@@ -1,2 +1,19 @@
-# DWJ-Static-Template
-This is a base project for a static website
+# Template for static website
+
+## Development
+
+### Requirements
+Node (latest)
+NPM (latest)
+
+### Run
+clone Repo
+
+npm i
+
+gulp watch
+
+
+
+
+
